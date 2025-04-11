@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/red"
+        android:title="배경색: RED">
+    </item>
+    <item
+        android:id="@+id/green"
+        android:title="배경색: GREEN">
+    </item>
+    <item
+        android:id="@+id/blue"
+        android:title="배경색: BLUE">
+    </item>
+</menu>
